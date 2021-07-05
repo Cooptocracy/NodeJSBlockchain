@@ -1,2 +1,11 @@
 # NodeJSBlockchain
-An Attempt to mimic the blockchain functionalities using NodeJS
+
+```
+# Install dependencies
+npm install
+```
+
+To execute proof types
+```
+node pow-sample.js
+```
